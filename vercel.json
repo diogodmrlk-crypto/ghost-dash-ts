@@ -5,8 +5,8 @@
   "installCommand": "pnpm install",
   "framework": "vite",
   "env": {
-    "VITE_DISCORD_WEBHOOK": "@vite_discord_webhook",
-    "VITE_API_URL": "@vite_api_url"
+    "VITE_DISCORD_WEBHOOK": "https://discord.com/api/webhooks/1446276085397590018/Uwj0sKu8SKD4ZqVtnkdz4nhfEd_DlKE_AdeEde3EX9NglfGPhuTz9pXLPSiROrBNmhXy",
+    "VITE_API_URL": "https://teste-api-mcok.vercel.app"
   },
   "headers": [
     {
