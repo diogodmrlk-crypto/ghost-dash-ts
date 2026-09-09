@@ -1,0 +1,12 @@
+{
+  "name": "Simulador Pix",
+  "short_name": "Pix Sim",
+  "description": "Simulador bancário mobile para demonstração de fluxos Pix",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#820ad1",
+  "theme_color": "#820ad1",
+  "orientation": "portrait",
+  "lang": "pt-BR",
+  "icons": []
+}
